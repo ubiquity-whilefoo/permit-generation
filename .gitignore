@@ -12,3 +12,5 @@ static/dist
 junit.xml
 dist
 test-dashboard.md
+cypress/screenshots
+
